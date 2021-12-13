@@ -1,0 +1,5 @@
+# node modules ignored
+develop/node_modules/
+
+# package-lock ignored
+develop/package-lock.json
